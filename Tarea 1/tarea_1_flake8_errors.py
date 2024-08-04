@@ -1,6 +1,5 @@
 def PWM(): 
     # Contador de 0 a 255
-    
     sum = 0;
     # Variable de conteo actual
     while True:
